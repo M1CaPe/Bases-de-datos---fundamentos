@@ -4,11 +4,11 @@ Estas reglas se han convertido en un estándar de oro para evaluar la adhesión 
 
 1. Regla de la Información:
 
-    Toda la información en una base de datos relacional es representada de manera explícita en forma de valores en tablas.
+Toda la información en una base de datos relacional es representada de manera explícita en forma de valores en tablas.
 
 2. Regla del Acceso Garantizado: 
 
-  Cada valor individual en la base de datos debe ser accesible mediante una combinación de nombre de tabla, valor de clave primaria y nombre de columna.
+Cada valor individual en la base de datos debe ser accesible mediante una combinación de nombre de tabla, valor de clave primaria y nombre de columna.
 
 3. Regla del Tratamiento Sistemático de Datos Nulos:
 
