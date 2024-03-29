@@ -1,9 +1,10 @@
 Las 12 reglas de Codd (https://www.mindmeister.com/app/map/1079684487?fullscreen=1&v=public)
 
+Estas reglas se han convertido en un estándar de oro para evaluar la adhesión de un sistema de gestión de base de datos a los principios del modelo relacional. Sin embargo, no todas las bases de datos relacionales en uso hoy en día cumplen estrictamente con todas las 12 reglas.
 
 1. Regla de la Información:
 
-  Toda la información en una base de datos relacional es representada de manera explícita en forma de valores en tablas.
+    Toda la información en una base de datos relacional es representada de manera explícita en forma de valores en tablas.
 
 2. Regla del Acceso Garantizado: 
 
