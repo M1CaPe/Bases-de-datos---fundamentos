@@ -37,3 +37,8 @@ tip: al leer la tabla no puedes saber que son las entidades ++(se encierra en un
 ***Entidades débiles por identidad:*** es cuando solo se diferencian entre si por la clave de su entidad fuerte
 
 ***Entidades débiles por existencia:*** se le da su propio ID para diferenciarse de la entidad fuerte
+
+
+### Ejemplo
+
+![](https://static.platzi.com/media/user_upload/diagrama%20base%20datos%20radiohead-353027cc-7082-4f83-869b-12bd3c44adce.jpg)
